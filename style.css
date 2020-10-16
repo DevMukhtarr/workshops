@@ -3,6 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+.header{
+    background-color: black;
+    height: 75px;
+    color: gold;
+    text-align: center;
+    position: relative;
+}
+h1{
+    position: inherit;
+    top: 10%;
+}
 .card{
     background-image: linear-gradient(to right, rgb(164, 209, 209), rgb(223, 164, 164)) ;
     text-align: center;
