@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.header{
+header{
     background-color: black;
     height: 75px;
     color: gold;
