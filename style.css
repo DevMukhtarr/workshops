@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -47,3 +48,40 @@ img:hover{
     cursor: pointer;  
     box-shadow: 2px 2px 2px 2px black;
 }
+=======
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    height: 75px;
+    color: gold;
+    text-align: center;
+    position: relative;
+}
+h1{
+    position: inherit;
+    top: 10%;
+}
+
+.card{
+    background-image: linear-gradient(to right, rgb(164, 209, 209), rgb(223, 164, 164)) ;
+    text-align: center;
+}
+img{
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 50px;
+    
+}
+img:hover{
+    cursor: pointer;  
+    box-shadow: 2px 2px 2px 2px black;
+}
+>>>>>>> 8e0a57529c764bf73f0657799e59fb78eebb62e9
